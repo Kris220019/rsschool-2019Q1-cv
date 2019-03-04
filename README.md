@@ -1,1 +1,1 @@
-https://github.com/Kris220019/rsschool-2019Q1-cv
+https://kris220019.github.io/rsschool-2019Q1-cv/cv.
